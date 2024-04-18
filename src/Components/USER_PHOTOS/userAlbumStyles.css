@@ -1,0 +1,17 @@
+.card{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+
+.card-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.userAlbum span{
+    color :#01889f;
+    font-weight :bold ;
+    font-size: 20px;
+}

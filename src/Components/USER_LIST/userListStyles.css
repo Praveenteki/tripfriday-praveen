@@ -1,0 +1,24 @@
+.userList_Headers{
+    font-size: 30px;
+    color: #01889f;
+   }
+   .userProfile_paper{
+       padding: 5px;
+   }
+   
+   .userList_Name {
+       font-weight :bold ;    
+   }
+   .userList_Name :hover {
+    font-weight :bold ;
+    color: #8fbc8f;
+}
+   .popupContent{
+    font-size: 10px;
+    color: #01889f;
+   }
+
+   .userList_container{
+    border : 1px solid black;
+
+   }
